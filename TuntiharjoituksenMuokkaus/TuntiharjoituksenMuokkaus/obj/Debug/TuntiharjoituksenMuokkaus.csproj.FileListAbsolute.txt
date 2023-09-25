@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\TuntiharjoituksenMuokkaus\TuntiharjoituksenMuokkaus\bin\Debug\TuntiharjoituksenMuokkaus.exe.config
+C:\Users\arinp\source\repos\TuntiharjoituksenMuokkaus\TuntiharjoituksenMuokkaus\bin\Debug\TuntiharjoituksenMuokkaus.exe
+C:\Users\arinp\source\repos\TuntiharjoituksenMuokkaus\TuntiharjoituksenMuokkaus\bin\Debug\TuntiharjoituksenMuokkaus.pdb
+C:\Users\arinp\source\repos\TuntiharjoituksenMuokkaus\TuntiharjoituksenMuokkaus\obj\Debug\TuntiharjoituksenMuokkaus.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\TuntiharjoituksenMuokkaus\TuntiharjoituksenMuokkaus\obj\Debug\TuntiharjoituksenMuokkaus.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\TuntiharjoituksenMuokkaus\TuntiharjoituksenMuokkaus\obj\Debug\TuntiharjoituksenMuokkaus.exe
+C:\Users\arinp\source\repos\TuntiharjoituksenMuokkaus\TuntiharjoituksenMuokkaus\obj\Debug\TuntiharjoituksenMuokkaus.pdb
